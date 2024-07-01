@@ -1,0 +1,7 @@
+config path: configs/base_modl,k=10.yaml
+workspace: ./workspace\base_modl,k=10
+description: base config, k=10. Restore weights from <base_modl,k=1>
+
+
+train start: 2024-06-13 14:48:24
+-----------------------
