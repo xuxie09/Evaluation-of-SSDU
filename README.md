@@ -10,7 +10,7 @@ For the network training and testing, you can download the processed datasets fr
 **Download Link** : https://drive.google.com/file/d/18hGurziu8zMoyyN3MvhiljvfHZCaaOaz/view?usp=drive_link
 
 ##  Results and Contributes
-![alt text](png/Result1.png)
+![alt text](png/Result.png)
 
 1.Self-supervised learning performances better image reconstruction quality at lower undersample folder.
 
