@@ -1,6 +1,6 @@
 # Computional Imaging Project 
 
-This project ValidateS the use of self-supervised learning to accelerate MRI data reconstruction.
+This project Validates the use of self-supervised learning to accelerate MRI data reconstruction.
 
 ## Processed fastMRI dataset
 
