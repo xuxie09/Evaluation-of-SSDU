@@ -12,14 +12,14 @@ For the network training and testing, you can download the processed datasets fr
 ##  Results and Contributes
 ![alt text](png/Result2.png)
 
-1.THis result using the original model Resnet. SSIM is 0.91 and PSNR is 33.4.
+1.THis result using the original model Resnet. SSIM is 0.92 and PSNR is 37.4.
 
 2.SSDU can achieve better reconstruction perforamce with the increase of the number of trainable parameters, but the overfiting should also be considered.
 
 3.For SSDU, Gaussian undersampled selection performances better image reconstruction quality than Uniform undersampled selection.
 
 ![alt text](png/Result3.png)
-1. THis result using VIT model. SSIM is 0.89 and PSNR is 29.5.
+1. THis result using VIT model. SSIM is 0.8 and PSNR is 29.5.
 
 ## Network structure
 
